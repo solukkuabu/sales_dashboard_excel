@@ -106,12 +106,3 @@ The Excel file includes:
 - Business performance monitoring
 
 ---
-
-## 📷 Dashboard Preview
-(Add a screenshot image here if uploading to GitHub)
-
----
-
-## 👤 Author
-Your Name  
-Excel Data Analytics Project
